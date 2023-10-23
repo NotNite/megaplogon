@@ -1,0 +1,756 @@
+[submodule "DalamudPluginsD17"]
+	path = DalamudPluginsD17
+	url = https://github.com/goatcorp/DalamudPluginsD17.git
+[submodule "plugins/AbilityAnts"]
+	path = plugins/AbilityAnts
+	url = https://github.com/attickdoor/AbilityAntsPlugin.git
+[submodule "plugins/Accountant"]
+	path = plugins/Accountant
+	url = https://github.com/Ottermandias/Accountant.git
+[submodule "plugins/ActionTimeline"]
+	path = plugins/ActionTimeline
+	url = https://github.com/Tischel/ActionTimeline.git
+[submodule "plugins/AdaptiveHud"]
+	path = plugins/AdaptiveHud
+	url = https://github.com/Helios747/AdaptiveHudPlugin.git
+[submodule "plugins/AdventurerInNeed"]
+	path = plugins/AdventurerInNeed
+	url = https://github.com/Caraxi/AdventurerInNeed.git
+[submodule "plugins/ARealmRecorded"]
+	path = plugins/ARealmRecorded
+	url = https://github.com/UnknownX7/ARealmRecorded.git
+[submodule "plugins/AudibleCharacterStatus"]
+	path = plugins/AudibleCharacterStatus
+	url = https://github.com/Arrenton/AudibleCharacterStatus.git
+[submodule "plugins/AutoMammet"]
+	path = plugins/AutoMammet
+	url = https://github.com/Rietty/AutoMammet.git
+[submodule "plugins/autoSweep"]
+	path = plugins/autoSweep
+	url = https://github.com/zhudotexe/FFXIV_PaissaHouse.git
+[submodule "plugins/BatteryGauge"]
+	path = plugins/BatteryGauge
+	url = https://github.com/KazWolfe/XIVBatteryGauge.git
+[submodule "plugins/BetterInBlue"]
+	path = plugins/BetterInBlue
+	url = https://github.com/NotNite/BetterInBlue.git
+[submodule "plugins/BetterMountRoulette"]
+	path = plugins/BetterMountRoulette
+	url = https://github.com/CMDRNuffin/BetterMountRoulette.git
+[submodule "plugins/BetterPartyFinder"]
+	path = plugins/BetterPartyFinder
+	url = https://git.anna.lgbt/anna/BetterPartyFinder.git
+[submodule "plugins/BetterPlaytime"]
+	path = plugins/BetterPlaytime
+	url = https://github.com/Infiziert90/BetterPlaytime.git
+[submodule "plugins/BetterShadows"]
+	path = plugins/BetterShadows
+	url = https://github.com/Drahsid/BetterShadows.git
+[submodule "plugins/BigPlayerDebuffs"]
+	path = plugins/BigPlayerDebuffs
+	url = https://github.com/rgd87/BigPlayerDebuffs.git
+[submodule "plugins/BlueMageHelper"]
+	path = plugins/BlueMageHelper
+	url = https://github.com/Infiziert90/BlueMageHelper.git
+[submodule "plugins/borderless-fix"]
+	path = plugins/borderless-fix
+	url = https://github.com/awgil/ffxiv_borderless_fix.git
+[submodule "plugins/BozjaBuddy"]
+	path = plugins/BozjaBuddy
+	url = https://github.com/kaleidocli/BozjaBuddy.git
+[submodule "plugins/Browsingway"]
+	path = plugins/Browsingway
+	url = https://github.com/Styr1x/Browsingway.git
+[submodule "plugins/BurntToast"]
+	path = plugins/BurntToast
+	url = https://git.anna.lgbt/anna/BurntToast.git
+[submodule "plugins/CharacterPanelRefined"]
+	path = plugins/CharacterPanelRefined
+	url = https://github.com/Kouzukii/ffxiv-characterstatus-refined.git
+[submodule "plugins/ChatAlerts"]
+	path = plugins/ChatAlerts
+	url = https://github.com/Ottermandias/ChatAlerts.git
+[submodule "plugins/ChatBubbles"]
+	path = plugins/ChatBubbles
+	url = https://github.com/Haplo064/ChatBubbles.git
+[submodule "plugins/ChatCoordinates"]
+	path = plugins/ChatCoordinates
+	url = https://github.com/kissorjeyabalan/dalamud-chatcoordinates.git
+[submodule "plugins/ChatTwo"]
+	path = plugins/ChatTwo
+	url = https://git.anna.lgbt/anna/ChatTwo.git
+[submodule "plugins/ChatTyper"]
+	path = plugins/ChatTyper
+	url = https://github.com/reiichi001/dalamud-chattyper.git
+[submodule "plugins/ChillFrames"]
+	path = plugins/ChillFrames
+	url = https://github.com/MidoriKami/ChillFrames.git
+[submodule "plugins/ClarityInChaos"]
+	path = plugins/ClarityInChaos
+	url = https://github.com/meoiswa/ClarityInChaos.git
+[submodule "plugins/cl_showpos"]
+	path = plugins/cl_showpos
+	url = https://github.com/NotNite/cl_showpos.git
+[submodule "plugins/CollectableCalculator"]
+	path = plugins/CollectableCalculator
+	url = https://github.com/mabako/CollectableCalculator.git
+[submodule "plugins/CombatCursorContainment"]
+	path = plugins/CombatCursorContainment
+	url = https://github.com/Cytraen/CombatCursorContainment.git
+[submodule "plugins/Compass"]
+	path = plugins/Compass
+	url = https://github.com/fitzchivalrik/compass.git
+[submodule "plugins/Congratulations"]
+	path = plugins/Congratulations
+	url = https://github.com/Berna-L/ffxiv-congratulations-plugin.git
+[submodule "plugins/CopyTranslated"]
+	path = plugins/CopyTranslated
+	url = https://github.com/kelvin124124/CopyTranslated.git
+[submodule "plugins/CrossUp"]
+	path = plugins/CrossUp
+	url = https://github.com/ItsBexy/CrossUp.git
+[submodule "plugins/CurrencyAlert"]
+	path = plugins/CurrencyAlert
+	url = https://github.com/MidoriKami/CurrencyAlert.git
+[submodule "plugins/CurrencyTracker"]
+	path = plugins/CurrencyTracker
+	url = https://github.com/AtmoOmen/CurrencyTracker.git
+[submodule "plugins/DailyDuty"]
+	path = plugins/DailyDuty
+	url = https://github.com/MidoriKami/DailyDuty.git
+[submodule "plugins/Dalamud.CharacterSync"]
+	path = plugins/Dalamud.CharacterSync
+	url = https://github.com/goaaats/Dalamud.CharacterSync.git
+[submodule "plugins/Dalamud.DiscordBridge"]
+	path = plugins/Dalamud.DiscordBridge
+	url = https://github.com/reiichi001/Dalamud.DiscordBridge.git
+[submodule "plugins/Dalamud.FindAnything"]
+	path = plugins/Dalamud.FindAnything
+	url = https://github.com/goaaats/Dalamud.FindAnything.git
+[submodule "plugins/Dalamud.FullscreenCutscenes"]
+	path = plugins/Dalamud.FullscreenCutscenes
+	url = https://github.com/goaaats/Dalamud.FullscreenCutscenes.git
+[submodule "plugins/Dalamud.LoadingImage"]
+	path = plugins/Dalamud.LoadingImage
+	url = https://github.com/goaaats/Dalamud.LoadingImage.git
+[submodule "plugins/Dalamud.RichPresence"]
+	path = plugins/Dalamud.RichPresence
+	url = https://github.com/reiichi001/Dalamud.RichPresence.git
+[submodule "plugins/DamageInfoPlugin"]
+	path = plugins/DamageInfoPlugin
+	url = https://github.com/lmcintyre/DamageInfoPlugin.git
+[submodule "plugins/DeathRecap"]
+	path = plugins/DeathRecap
+	url = https://github.com/Kouzukii/ffxiv-deathrecap.git
+[submodule "plugins/DeathRoll"]
+	path = plugins/DeathRoll
+	url = https://github.com/Infiziert90/DeathRoll.git
+[submodule "plugins/DeepDungeonDex"]
+	path = plugins/DeepDungeonDex
+	url = https://github.com/wolfcomp/DeepDungeonDex.git
+[submodule "plugins/DeepDungeonTracker"]
+	path = plugins/DeepDungeonTracker
+	url = https://github.com/marconsou/deep-dungeon-tracker.git
+[submodule "plugins/DelvUI"]
+	path = plugins/DelvUI
+	url = https://github.com/DelvUI/DelvUI.git
+[submodule "plugins/DeviceChangeFix"]
+	path = plugins/DeviceChangeFix
+	url = https://github.com/Jessidhia/DeviceChangeFix.git
+[submodule "plugins/Distance"]
+	path = plugins/Distance
+	url = https://github.com/PunishedPineapple/Distance.git
+[submodule "plugins/DistantSeas"]
+	path = plugins/DistantSeas
+	url = https://github.com/NotNite/DistantSeas.git
+[submodule "plugins/Doorbell"]
+	path = plugins/Doorbell
+	url = https://github.com/SoyaX/Doorbell.git
+[submodule "plugins/DutyTracker"]
+	path = plugins/DutyTracker
+	url = https://github.com/Xpahtalo/DutyTracker.git
+[submodule "plugins/EasyEyes"]
+	path = plugins/EasyEyes
+	url = https://github.com/0ceal0t/EasyEyes.git
+[submodule "plugins/Echoglossian"]
+	path = plugins/Echoglossian
+	url = https://github.com/lokinmodar/Echoglossian.git
+[submodule "plugins/EldenRing"]
+	path = plugins/EldenRing
+	url = https://github.com/reiichi001/EldenRingDalamud.git
+[submodule "plugins/EmoteLog"]
+	path = plugins/EmoteLog
+	url = https://github.com/RokasKil/EmoteLog.git
+[submodule "plugins/EnemyListDebuffs"]
+	path = plugins/EnemyListDebuffs
+	url = https://github.com/Felys1998/EnemyListDebuffs.git
+[submodule "plugins/EngageTimer"]
+	path = plugins/EngageTimer
+	url = https://github.com/xorus/EngageTimer.git
+[submodule "plugins/EnmityHp"]
+	path = plugins/EnmityHp
+	url = https://github.com/NightmareXIV/EnmityHp.git
+[submodule "plugins/EurekaHelper"]
+	path = plugins/EurekaHelper
+	url = https://github.com/snorux/EurekaHelper.git
+[submodule "plugins/EurekaTrackerAutoPopper"]
+	path = plugins/EurekaTrackerAutoPopper
+	url = https://github.com/Infiziert90/EurekaTrackerAutoPopper.git
+[submodule "plugins/ExpandedSearchInfo"]
+	path = plugins/ExpandedSearchInfo
+	url = https://git.anna.lgbt/anna/ExpandedSearchInfo.git
+[submodule "plugins/ExtraChat"]
+	path = plugins/ExtraChat
+	url = https://git.anna.lgbt/anna/ExtraChat.git
+[submodule "plugins/FaderPlugin"]
+	path = plugins/FaderPlugin
+	url = https://github.com/shdwp/xivFaderPlugin.git
+[submodule "plugins/FantasyPlayer"]
+	path = plugins/FantasyPlayer
+	url = https://github.com/Critical-Impact/FantasyPlayer.git
+[submodule "plugins/FauxHollowsSolver"]
+	path = plugins/FauxHollowsSolver
+	url = https://github.com/MidoriKami/FauxHollowsSolver.git
+[submodule "plugins/FCNameColor"]
+	path = plugins/FCNameColor
+	url = https://github.com/WesselKuipers/FCNameColor.git
+[submodule "plugins/Ffxiv2Mqtt"]
+	path = plugins/Ffxiv2Mqtt
+	url = https://github.com/Xpahtalo/Ffxiv2Mqtt.git
+[submodule "plugins/FlashOnTell"]
+	path = plugins/FlashOnTell
+	url = https://github.com/reiichi001/Dalamud-FlashOnTellPlugin.git
+[submodule "plugins/FlyTextFilter"]
+	path = plugins/FlyTextFilter
+	url = https://github.com/Aireil/FlyTextFilter.git
+[submodule "plugins/FPSPlugin"]
+	path = plugins/FPSPlugin
+	url = https://github.com/Caraxi/FPSPlugin.git
+[submodule "plugins/Fungah"]
+	path = plugins/Fungah
+	url = https://github.com/imaginary-png/Fungah-Totally-Safe-Spot.git
+[submodule "plugins/G4EUkrChatSupport"]
+	path = plugins/G4EUkrChatSupport
+	url = https://github.com/justscribe/g4e_ukrchatsupport.git
+[submodule "plugins/GatherBuddy"]
+	path = plugins/GatherBuddy
+	url = https://github.com/Ottermandias/GatherBuddy.git
+[submodule "plugins/GearsetHelperPlugin"]
+	path = plugins/GearsetHelperPlugin
+	url = https://github.com/KhloeLeclair/GearsetHelperPlugin.git
+[submodule "plugins/GentleTouch"]
+	path = plugins/GentleTouch
+	url = https://github.com/fitzchivalrik/gentletouch.git
+[submodule "plugins/Glamaholic"]
+	path = plugins/Glamaholic
+	url = https://git.anna.lgbt/anna/Glamaholic.git
+[submodule "plugins/Globetrotter"]
+	path = plugins/Globetrotter
+	url = https://git.anna.lgbt/anna/Globetrotter.git
+[submodule "plugins/GoodFriend"]
+	path = plugins/GoodFriend
+	url = https://github.com/Blooym/GoodFriend.git
+[submodule "plugins/HarpHero"]
+	path = plugins/HarpHero
+	url = https://github.com/MgAl2O4/HarpHeroDalamud.git
+[submodule "plugins/HimbeertoniRaidTool"]
+	path = plugins/HimbeertoniRaidTool
+	url = https://github.com/Koenari/HimbeertoniRaidTool.git
+[submodule "plugins/Honorific"]
+	path = plugins/Honorific
+	url = https://github.com/Caraxi/Honorific.git
+[submodule "plugins/Housemate"]
+	path = plugins/Housemate
+	url = https://github.com/lmcintyre/Housemate.git
+[submodule "plugins/HuntBuddy"]
+	path = plugins/HuntBuddy
+	url = https://github.com/SheepGoMeh/HuntBuddy.git
+[submodule "plugins/HuntHelper"]
+	path = plugins/HuntHelper
+	url = https://github.com/imaginary-png/HuntHelper.git
+[submodule "plugins/Hunty"]
+	path = plugins/Hunty
+	url = https://github.com/Infiziert90/Hunty.git
+[submodule "plugins/HybridCamera"]
+	path = plugins/HybridCamera
+	url = https://github.com/Drahsid/HybridCamera.git
+[submodule "plugins/InventorySearchBar"]
+	path = plugins/InventorySearchBar
+	url = https://github.com/Tischel/InventorySearchBar.git
+[submodule "plugins/InventoryTools"]
+	path = plugins/InventoryTools
+	url = https://github.com/Critical-Impact/InventoryTools.git
+[submodule "plugins/ItemSearchPlugin"]
+	path = plugins/ItemSearchPlugin
+	url = https://github.com/Caraxi/ItemSearchPlugin.git
+[submodule "plugins/ItemVendorLocation"]
+	path = plugins/ItemVendorLocation
+	url = https://github.com/electr0sheep/ItemVendorLocation.git
+[submodule "plugins/JobBars"]
+	path = plugins/JobBars
+	url = https://github.com/0ceal0t/JobBars.git
+[submodule "plugins/JustBackup"]
+	path = plugins/JustBackup
+	url = https://github.com/NightmareXIV/JustBackup.git
+[submodule "plugins/Kapture"]
+	path = plugins/Kapture
+	url = https://github.com/kalilistic/Kapture.git
+[submodule "plugins/KingdomHeartsPlugin"]
+	path = plugins/KingdomHeartsPlugin
+	url = https://github.com/Arrenton/KingdomHeartsPlugin.git
+[submodule "plugins/LogogramHelper"]
+	path = plugins/LogogramHelper
+	url = https://github.com/apetih/LogogramHelper.git
+[submodule "plugins/MacroChain"]
+	path = plugins/MacroChain
+	url = https://github.com/Caraxi/MacroChain.git
+[submodule "plugins/MacroRecorded"]
+	path = plugins/MacroRecorded
+	url = https://github.com/danielbrenom/MacroRecorded.git
+[submodule "plugins/MapLinker"]
+	path = plugins/MapLinker
+	url = https://github.com/Bluefissure/MapLinker.git
+[submodule "plugins/Mappy"]
+	path = plugins/Mappy
+	url = https://github.com/MidoriKami/Mappy.git
+[submodule "plugins/MarketBoardPlugin"]
+	path = plugins/MarketBoardPlugin
+	url = https://github.com/fmauNeko/MarketBoardPlugin.git
+[submodule "plugins/MarketUploader"]
+	path = plugins/MarketUploader
+	url = https://github.com/ZhyraPlugins/MarketUploader.git
+[submodule "plugins/MBHistory"]
+	path = plugins/MBHistory
+	url = https://github.com/Infiziert90/MBHistory.git
+[submodule "plugins/MemoryMarker"]
+	path = plugins/MemoryMarker
+	url = https://github.com/MidoriKami/MemoryMarker.git
+[submodule "plugins/Messenger"]
+	path = plugins/Messenger
+	url = https://github.com/NightmareXIV/XIVInstantMessenger.git
+[submodule "plugins/MimicryHelper"]
+	path = plugins/MimicryHelper
+	url = https://github.com/RedMage1993/MimicryHelper.git
+[submodule "plugins/Mini"]
+	path = plugins/Mini
+	url = https://github.com/NightmareXIV/Mini.git
+[submodule "plugins/MiniCactpotSolver"]
+	path = plugins/MiniCactpotSolver
+	url = https://github.com/MidoriKami/MiniCactpotSolver.git
+[submodule "plugins/MiniMappingway"]
+	path = plugins/MiniMappingway
+	url = https://github.com/jaycewhite/MiniMappingway.git
+[submodule "plugins/MOAction"]
+	path = plugins/MOAction
+	url = https://github.com/attickdoor/MOActionPlugin.git
+[submodule "plugins/MonsterLootHunter"]
+	path = plugins/MonsterLootHunter
+	url = https://github.com/danielbrenom/MonsterLootHunter.git
+[submodule "plugins/MPTickBar"]
+	path = plugins/MPTickBar
+	url = https://github.com/marconsou/mp-tick-bar.git
+[submodule "plugins/NamePlateDebuffs"]
+	path = plugins/NamePlateDebuffs
+	url = https://github.com/abashby/NamePlateDebuffs.git
+[submodule "plugins/Namingway"]
+	path = plugins/Namingway
+	url = https://git.anna.lgbt/anna/Namingway.git
+[submodule "plugins/NeatNoter"]
+	path = plugins/NeatNoter
+	url = https://github.com/kalilistic/NeatNoter.git
+[submodule "plugins/Neko"]
+	path = plugins/Neko
+	url = https://github.com/Meisterlala/NekoFans.git
+[submodule "plugins/NextUIPlugin"]
+	path = plugins/NextUIPlugin
+	url = https://gitlab.com/kaminariss/nextui-plugin.git
+[submodule "plugins/NoSoliciting"]
+	path = plugins/NoSoliciting
+	url = https://git.anna.lgbt/anna/NoSoliciting.git
+[submodule "plugins/NoTankYou"]
+	path = plugins/NoTankYou
+	url = https://github.com/MidoriKami/NoTankYou.git
+[submodule "plugins/NOTED"]
+	path = plugins/NOTED
+	url = https://github.com/Tischel/NOTED.git
+[submodule "plugins/NotificationMaster"]
+	path = plugins/NotificationMaster
+	url = https://github.com/NightmareXIV/NotificationMaster.git
+[submodule "plugins/OBSPlugin"]
+	path = plugins/OBSPlugin
+	url = https://github.com/Bluefissure/Dalamud-OBS.git
+[submodule "plugins/OrangeGuidanceTomestone"]
+	path = plugins/OrangeGuidanceTomestone
+	url = https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git
+[submodule "plugins/orchestrion"]
+	path = plugins/orchestrion
+	url = https://github.com/lmcintyre/OrchestrionPlugin.git
+[submodule "plugins/owofy"]
+	path = plugins/owofy
+	url = https://github.com/reiichi001/dalamud-owo.git
+[submodule "plugins/PartyIcons"]
+	path = plugins/PartyIcons
+	url = https://github.com/nebel/xivPartyIcons.git
+[submodule "plugins/PartyPlanner"]
+	path = plugins/PartyPlanner
+	url = https://github.com/ZhyraPlugins/PartyPlanner.git
+[submodule "plugins/PatMe"]
+	path = plugins/PatMe
+	url = https://github.com/MgAl2O4/PatMeDalamud.git
+[submodule "plugins/PeepingTom"]
+	path = plugins/PeepingTom
+	url = https://git.anna.lgbt/anna/PeepingTom.git
+[submodule "plugins/PennyPincher"]
+	path = plugins/PennyPincher
+	url = https://github.com/tesu/PennyPincher.git
+[submodule "plugins/PetRenamer"]
+	path = plugins/PetRenamer
+	url = https://github.com/Glyceri/FFXIVPetRenamer.git
+[submodule "plugins/PingPlugin"]
+	path = plugins/PingPlugin
+	url = https://github.com/karashiiro/PingPlugin.git
+[submodule "plugins/PixelPerfect"]
+	path = plugins/PixelPerfect
+	url = https://github.com/Haplo064/PixelPerfect.git
+[submodule "plugins/PlayerTags"]
+	path = plugins/PlayerTags
+	url = https://github.com/Pilzinsel64/PlayerTags.git
+[submodule "plugins/PlayerTrack"]
+	path = plugins/PlayerTrack
+	url = https://github.com/kalilistic/PlayerTrack.git
+[submodule "plugins/PositionalGuide"]
+	path = plugins/PositionalGuide
+	url = https://github.com/PrincessRTFM/PositionalAssistant.git
+[submodule "plugins/PrefPro"]
+	path = plugins/PrefPro
+	url = https://github.com/lmcintyre/PrefPro.git
+[submodule "plugins/PriceCheck"]
+	path = plugins/PriceCheck
+	url = https://github.com/kalilistic/PriceCheck.git
+[submodule "plugins/PriceInsight"]
+	path = plugins/PriceInsight
+	url = https://github.com/Kouzukii/ffxiv-priceinsight.git
+[submodule "plugins/PushyFinder"]
+	path = plugins/PushyFinder
+	url = https://github.com/lostkagamine/PushyFinder.git
+[submodule "plugins/QoLBar"]
+	path = plugins/QoLBar
+	url = https://github.com/UnknownX7/QoLBar.git
+[submodule "plugins/QuestAWAY"]
+	path = plugins/QuestAWAY
+	url = https://github.com/NightmareXIV/QuestAWAY.git
+[submodule "plugins/QuestMap"]
+	path = plugins/QuestMap
+	url = https://git.anna.lgbt/anna/QuestMap.git
+[submodule "plugins/ReadyCheckHelper"]
+	path = plugins/ReadyCheckHelper
+	url = https://github.com/Infiziert90/ReadyCheckHelper.git
+[submodule "plugins/Redirect"]
+	path = plugins/Redirect
+	url = https://github.com/cairthenn/Redirect.git
+[submodule "plugins/RemotePartyFinder"]
+	path = plugins/RemotePartyFinder
+	url = https://git.anna.lgbt/anna/remote-party-finder.git
+[submodule "plugins/RepairMe"]
+	path = plugins/RepairMe
+	url = https://github.com/chalkos/RepairMe.git
+[submodule "plugins/ReSanctuary"]
+	path = plugins/ReSanctuary
+	url = https://github.com/NotNite/ReSanctuary.git
+[submodule "plugins/ResizableHUD"]
+	path = plugins/ResizableHUD
+	url = https://github.com/Drahsid/ResizableHUD.git
+[submodule "plugins/ResLogger2.Plugin"]
+	path = plugins/ResLogger2.Plugin
+	url = https://github.com/lmcintyre/ResLogger2.git
+[submodule "plugins/RezPls"]
+	path = plugins/RezPls
+	url = https://github.com/Ottermandias/RezPls.git
+[submodule "plugins/RoleplayProfiles"]
+	path = plugins/RoleplayProfiles
+	url = https://github.com/Maia-Everett/dalamud-roleplay-profiles.git
+[submodule "plugins/SillyChat"]
+	path = plugins/SillyChat
+	url = https://github.com/kalilistic/SillyChat.git
+[submodule "plugins/SimpleTweaksPlugin"]
+	path = plugins/SimpleTweaksPlugin
+	url = https://github.com/Caraxi/SimpleTweaksPlugin.git
+[submodule "plugins/SkillSwap"]
+	path = plugins/SkillSwap
+	url = https://github.com/0ceal0t/SkillSwap.git
+[submodule "plugins/Snooper"]
+	path = plugins/Snooper
+	url = https://github.com/Maia-Everett/dalamud-snooper.git
+[submodule "plugins/SonarPlugin"]
+	path = plugins/SonarPlugin
+	url = https://github.com/FFXIV-Sonar/SonarDistrib.git
+[submodule "plugins/SortaKinda"]
+	path = plugins/SortaKinda
+	url = https://github.com/MidoriKami/SortaKinda.git
+[submodule "plugins/SoundFilter"]
+	path = plugins/SoundFilter
+	url = https://git.anna.lgbt/anna/SoundFilter.git
+[submodule "plugins/SoundSetter"]
+	path = plugins/SoundSetter
+	url = https://github.com/karashiiro/SoundSetter.git
+[submodule "plugins/StackSellPrice"]
+	path = plugins/StackSellPrice
+	url = https://github.com/PrincessRTFM/StackSellPrice.git
+[submodule "plugins/StanleyParableXiv"]
+	path = plugins/StanleyParableXiv
+	url = https://github.com/rekyuu/StanleyParableXiv.git
+[submodule "plugins/Stormtalons"]
+	path = plugins/Stormtalons
+	url = https://github.com/Chickenstew/Stormtalons.git
+[submodule "plugins/SubmarineTracker"]
+	path = plugins/SubmarineTracker
+	url = https://github.com/Infiziert90/SubmarineTracker.git
+[submodule "plugins/TargetFurniture"]
+	path = plugins/TargetFurniture
+	url = https://github.com/InitialDet/TargetFurniture.git
+[submodule "plugins/TargetLines"]
+	path = plugins/TargetLines
+	url = https://github.com/Drahsid/TargetLines.git
+[submodule "plugins/TeleporterPlugin"]
+	path = plugins/TeleporterPlugin
+	url = https://github.com/pohky/TeleporterPlugin.git
+[submodule "plugins/TextBoxStyler"]
+	path = plugins/TextBoxStyler
+	url = https://git.anna.lgbt/anna/TextBoxStyler.git
+[submodule "plugins/TextToTalk"]
+	path = plugins/TextToTalk
+	url = https://github.com/karashiiro/TextToTalk.git
+[submodule "plugins/Tf2CriticalHitsPlugin"]
+	path = plugins/Tf2CriticalHitsPlugin
+	url = https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git
+[submodule "plugins/Tf2Hud"]
+	path = plugins/Tf2Hud
+	url = https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git
+[submodule "plugins/TheGreatSeparator"]
+	path = plugins/TheGreatSeparator
+	url = https://git.anna.lgbt/anna/TheGreatSeparator.git
+[submodule "plugins/TheHeartOfTheParty"]
+	path = plugins/TheHeartOfTheParty
+	url = https://git.anna.lgbt/anna/TheHeartOfTheParty.git
+[submodule "plugins/TidyChat"]
+	path = plugins/TidyChat
+	url = https://github.com/NadyaNayme/TidyChat.git
+[submodule "plugins/Tilted"]
+	path = plugins/Tilted
+	url = https://github.com/meoiswa/TiltedPlugin.git
+[submodule "plugins/Tippy"]
+	path = plugins/Tippy
+	url = https://github.com/kalilistic/Tippy.git
+[submodule "plugins/TitleEdit"]
+	path = plugins/TitleEdit
+	url = https://github.com/lmcintyre/TitleEditPlugin.git
+[submodule "plugins/TitleRoulette"]
+	path = plugins/TitleRoulette
+	url = https://github.com/mabako/TitleRoulette.git
+[submodule "plugins/TooltipNotes"]
+	path = plugins/TooltipNotes
+	url = https://github.com/Lerofni/TooltipNotes.git
+[submodule "plugins/Tourist"]
+	path = plugins/Tourist
+	url = https://git.anna.lgbt/anna/Tourist.git
+[submodule "plugins/TPie"]
+	path = plugins/TPie
+	url = https://github.com/Tischel/TPie.git
+[submodule "plugins/TrackyTrack"]
+	path = plugins/TrackyTrack
+	url = https://github.com/Infiziert90/TrackyTrack.git
+[submodule "plugins/TriadBuddy"]
+	path = plugins/TriadBuddy
+	url = https://github.com/MgAl2O4/FFTriadBuddyDalamud.git
+[submodule "plugins/TwitchXIV"]
+	path = plugins/TwitchXIV
+	url = https://github.com/Aida-Enna/TwitchXIV.git
+[submodule "plugins/UsedName"]
+	path = plugins/UsedName
+	url = https://github.com/LittleNightmare/UsedName.git
+[submodule "plugins/VFXEditor"]
+	path = plugins/VFXEditor
+	url = https://github.com/0ceal0t/Dalamud-VFXEditor.git
+[submodule "plugins/Visibility"]
+	path = plugins/Visibility
+	url = https://github.com/SheepGoMeh/VisibilityPlugin.git
+[submodule "plugins/Waitingway.Dalamud"]
+	path = plugins/Waitingway.Dalamud
+	url = https://github.com/avafloww/Waitingway.git
+[submodule "plugins/WaymarkPresetPlugin"]
+	path = plugins/WaymarkPresetPlugin
+	url = https://github.com/Infiziert90/WaymarkPresetPlugin.git
+[submodule "plugins/Weatherman"]
+	path = plugins/Weatherman
+	url = https://github.com/NightmareXIV/Weatherman.git
+[submodule "plugins/WhatDidYouSay"]
+	path = plugins/WhatDidYouSay
+	url = https://github.com/PunishedPineapple/WhatDidYouSay.git
+[submodule "plugins/WhereAmIAgain"]
+	path = plugins/WhereAmIAgain
+	url = https://github.com/cassandra308/WhereAmIAgain.git
+[submodule "plugins/WheresWOLdo"]
+	path = plugins/WheresWOLdo
+	url = https://github.com/reiichi001/WheresWOLdo.git
+[submodule "plugins/WhichPatchWasThat"]
+	path = plugins/WhichPatchWasThat
+	url = https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git
+[submodule "plugins/WhoDidThat"]
+	path = plugins/WhoDidThat
+	url = https://github.com/spide-r/WhoDidThat.git
+[submodule "plugins/Wholist"]
+	path = plugins/Wholist
+	url = https://github.com/Blooym/Wholist.git
+[submodule "plugins/WinTitle"]
+	path = plugins/WinTitle
+	url = https://github.com/rreminy/FFXIV.WinTitle.git
+[submodule "plugins/WondrousTailsSolver"]
+	path = plugins/WondrousTailsSolver
+	url = https://github.com/MidoriKami/WondrousTailsSolver.git
+[submodule "plugins/Wordsmith"]
+	path = plugins/Wordsmith
+	url = https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git
+[submodule "plugins/WorkshopOptimizerPlugin"]
+	path = plugins/WorkshopOptimizerPlugin
+	url = https://github.com/belzaru17/WorkshopOptimizerPlugin.git
+[submodule "plugins/XIVChat"]
+	path = plugins/XIVChat
+	url = https://git.anna.lgbt/XIVChat/XIVChat.git
+[submodule "plugins/XIVCombo"]
+	path = plugins/XIVCombo
+	url = https://github.com/attickdoor/XIVComboPlugin.git
+[submodule "plugins/XIVDeck.FFXIVPlugin"]
+	path = plugins/XIVDeck.FFXIVPlugin
+	url = https://github.com/KazWolfe/XIVDeck.git
+[submodule "plugins/XIVDupeFinder"]
+	path = plugins/XIVDupeFinder
+	url = https://github.com/CallumCarmicheal/XIVDupeFinder.git
+[submodule "plugins/XIVLogger"]
+	path = plugins/XIVLogger
+	url = https://github.com/Infiziert90/XIVLogger.git
+[submodule "plugins/ZodiacBuddy"]
+	path = plugins/ZodiacBuddy
+	url = https://github.com/MidoriKami/ZodiacBuddy.git
+[submodule "plugins/AetherCompass"]
+	path = plugins/AetherCompass
+	url = https://github.com/yomishino/FFXIVAetherCompass.git
+[submodule "plugins/AutoMountBgm"]
+	path = plugins/AutoMountBgm
+	url = https://github.com/PrincessRTFM/AutoMountBGM.git
+[submodule "plugins/Beachcomber"]
+	path = plugins/Beachcomber
+	url = https://github.com/rosella500/IslandWorkshopSolver.git
+[submodule "plugins/BetterTargetingSystem"]
+	path = plugins/BetterTargetingSystem
+	url = https://github.com/Lynesth/BetterTargetingSystem.git
+[submodule "plugins/CameraLoader"]
+	path = plugins/CameraLoader
+	url = https://github.com/NeNeppie/LightsCameraAction.git
+[submodule "plugins/Casexile"]
+	path = plugins/Casexile
+	url = https://gitlab.com/Bakura/casexile.git
+[submodule "plugins/ChatEmoteColor"]
+	path = plugins/ChatEmoteColor
+	url = https://github.com/chrisk699/ffxiv-chatemotecolor-plugin.git
+[submodule "plugins/Chatter"]
+	path = plugins/Chatter
+	url = https://github.com/jlkeesey/Chatter.git
+[submodule "plugins/CoinPouch"]
+	path = plugins/CoinPouch
+	url = https://github.com/Aelexe/coin-pouch.git
+[submodule "plugins/Collections"]
+	path = plugins/Collections
+	url = https://github.com/Seventhxiv/Collections.git
+[submodule "plugins/CollectorsAnxiety"]
+	path = plugins/CollectorsAnxiety
+	url = https://github.com/KazWolfe/CollectorsAnxiety.git
+[submodule "plugins/Craftimizer"]
+	path = plugins/Craftimizer
+	url = https://git.camora.dev/asriel/craftimizer.git
+[submodule "plugins/DaCoblyn"]
+	path = plugins/DaCoblyn
+	url = https://github.com/thatismunn/xiv-coblyn.git
+[submodule "plugins/DelvCD"]
+	path = plugins/DelvCD
+	url = https://github.com/DelvUI/DelvCD.git
+[submodule "plugins/FFXIVRPCalendarPlugin"]
+	path = plugins/FFXIVRPCalendarPlugin
+	url = https://github.com/erroch/FFXIVRPEventCalendarPlugin.git
+[submodule "plugins/GlamourWishlist"]
+	path = plugins/GlamourWishlist
+	url = https://github.com/Imaginary-Narwhal/GlamourWishlist.git
+[submodule "plugins/HighFpsPhysicsPlugin"]
+	path = plugins/HighFpsPhysicsPlugin
+	url = https://github.com/Kirrana/xivlauncher_physics_plugin.git
+[submodule "plugins/HUDManager"]
+	path = plugins/HUDManager
+	url = https://github.com/zacharied/FFXIV-Plugin-HudManager.git
+[submodule "plugins/KikoGuide"]
+	path = plugins/KikoGuide
+	url = https://github.com/BitsOfAByte/KikoGuide.git
+[submodule "plugins/Linkpearl"]
+	path = plugins/Linkpearl
+	url = https://github.com/NotNite/Linkpearl.git
+[submodule "plugins/MagitekStratagem"]
+	path = plugins/MagitekStratagem
+	url = https://github.com/meoiswa/MagitekStratagem.git
+[submodule "plugins/MountCollectioner"]
+	path = plugins/MountCollectioner
+	url = https://github.com/Samuelkaa/MountCollectioner.git
+[submodule "plugins/NICEDamage"]
+	path = plugins/NICEDamage
+	url = https://github.com/gnargle/NICEDamage.git
+[submodule "plugins/NoKillPlugin"]
+	path = plugins/NoKillPlugin
+	url = https://github.com/Bluefissure/NoKillPlugin.git
+[submodule "plugins/OceanFishin"]
+	path = plugins/OceanFishin
+	url = https://github.com/markjsosnowski/OceanFishin.git
+[submodule "plugins/OofPlugin"]
+	path = plugins/OofPlugin
+	url = https://github.com/Frogworks-Interactive/OOF.git
+[submodule "plugins/PartyListLayout"]
+	path = plugins/PartyListLayout
+	url = https://github.com/Caraxi/PartyListLayout.git
+[submodule "plugins/ProperHousing"]
+	path = plugins/ProperHousing
+	url = https://github.com/Sevii77/properhousing.git
+[submodule "plugins/QuoteOfTheLobby"]
+	path = plugins/QuoteOfTheLobby
+	url = https://github.com/53m1k0l0n/QuoteOfTheLobby.git
+[submodule "plugins/RPBlurb"]
+	path = plugins/RPBlurb
+	url = https://github.com/meoiswa/RPBlurb.git
+[submodule "plugins/rtyping"]
+	path = plugins/rtyping
+	url = https://github.com/apetih/rtyping.git
+[submodule "plugins/SelfCare"]
+	path = plugins/SelfCare
+	url = https://github.com/chirpxiv/SelfCare.git
+[submodule "plugins/ShowGear"]
+	path = plugins/ShowGear
+	url = https://github.com/sersorrel/ShowGear.git
+[submodule "plugins/SimpleCompare"]
+	path = plugins/SimpleCompare
+	url = https://github.com/53m1k0l0n/ffxiv-simplecompare.git
+[submodule "plugins/TheDot"]
+	path = plugins/TheDot
+	url = https://github.com/eja-git/thedotplugin.git
+[submodule "plugins/TickTracker"]
+	path = plugins/TickTracker
+	url = https://github.com/Kurochi51/TickTracker.git
+[submodule "plugins/VanillaHotbarExtender"]
+	path = plugins/VanillaHotbarExtender
+	url = https://github.com/mustafakalash/VanillaHotbarExtender.git
+[submodule "plugins/WhereIsMyMouse"]
+	path = plugins/WhereIsMyMouse
+	url = https://github.com/Pythyu/WhereIsMyMouse.git
+[submodule "plugins/WhosTalking"]
+	path = plugins/WhosTalking
+	url = https://github.com/sersorrel/WhosTalking.git
+[submodule "plugins/xivr"]
+	path = plugins/xivr
+	url = https://github.com/ProjectMimer/xivr.git
+[submodule "plugins/XIVWindowResizer"]
+	path = plugins/XIVWindowResizer
+	url = https://github.com/AlexCSDev/XIVWindowResizer.git
